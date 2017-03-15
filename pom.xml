@@ -28,7 +28,7 @@
     <groupId>org.ballerinalang</groupId>
     <artifactId>swagger-ballerina</artifactId>
     <packaging>pom</packaging>
-    <version>0.8.12-SNAPSHOT</version>
+    <version>0.8.13-SNAPSHOT</version>
     <name>WSO2 Swagger Ballerina Tooling - Parent</name>
     <url>http://wso2.org</url>
 
